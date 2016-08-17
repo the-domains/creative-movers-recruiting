@@ -21,5 +21,9 @@ author:
   url: www.creativemoversrecruiting.com
 logo: null
 name: Creative Movers Recruiting
+navigation:
+  - name: Creative Movers
+    url: www.creativemovers.com
+    type: external
 title: Creative Jobs/Creative Industries
 description: Experienced & Personal Recruiting Services
