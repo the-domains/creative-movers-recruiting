@@ -1,4 +1,3 @@
-layout_spectrum: 0.7464755873661488
 typography_spectrum: 0.10664376663044095
 color:
   brandStrength: 0.9908715367782861
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.7464755873661488
 name: Creative Movers Recruiting
+title: Creative Jobs/Creative Industries
