@@ -1,4 +1,6 @@
 typography_spectrum: 0.10664376663044095
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9908715367782861
   lightness: 0.23487555561587214
@@ -11,6 +13,12 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.7464755873661488
+author:
+  name: Shawn
+  email: shawn@creativemovers.com
+  url: www.creativemoversrecruiting.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/809d5299-eee3-46f7-ad12-688608b3a8a3.jpg
 name: Creative Movers Recruiting
 title: Creative Jobs/Creative Industries
 description: Experienced & Personal
